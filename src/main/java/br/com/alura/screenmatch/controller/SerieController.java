@@ -41,4 +41,9 @@ public class SerieController {
     private List<EpisodioDTO> obterTodosEpisodios(@PathVariable Long id) {
         return serieService.obterTodosEpisodios(id);
     }
+
+    @GetMapping("/{id}/temporadas/{numero}")
+    private List<EpisodioDTO> obterEpisodiosPorTemporada(@PathVariable Long id, @PathVariable Long numero) {
+        return serieService.obterEpisodiosPorTemporada(id, numero);
+    }
 }
