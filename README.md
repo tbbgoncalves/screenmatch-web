@@ -1,5 +1,7 @@
 ## 💻 Sobre o projeto
 
+![imagem da tela do ScreenMatch](https://lh3.googleusercontent.com/drive-viewer/AKGpihZMHs05-5pfvWMNxbZjENHdrQSBG4m2IHAAVkomdiCVXxqUrDVdHpqveJhirDBAUWDBOZdLmRwzC6NZnvatM-Vr972k=w1366-h607)
+
 ScreenMatch é uma aplicação web de streaming de vídeo desenvolvida como parte do meu portfólio. Neste projeto, o foco na construção do back-end, criando uma API REST utilizando o framework Spring. O front-end já havia sido previamente desenvolvido e foi apenas fornecido os dados para este.
 
 A obtenção de informações sobre séries de TV é realizada através da [API OMDb](https://www.omdbapi.com/). Além disso, foi integrado o [ChatGPT](https://chat.openai.com/) para traduzir as sinopses das séries, que originalmente estão em inglês. 
