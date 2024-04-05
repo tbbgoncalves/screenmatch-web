@@ -1,6 +1,6 @@
 ## 💻 Sobre o projeto
 
-<p align="center"><img src="https://i.ibb.co/ggMHSjV/hom2.png" alt="imagem da tela do ScreenMatch" border="0"></p>
+<p align="center"><img src="https://i.postimg.cc/hjFdxV6m/hom2.png" alt="imagem da tela do ScreenMatch" border="0"></p>
 
 ScreenMatch é uma aplicação web de streaming de vídeo desenvolvida como parte do meu portfólio. Neste projeto, o foco na construção do back-end, criando uma API REST utilizando o framework Spring. O front-end já havia sido previamente desenvolvido e foi apenas fornecido os dados para este.
 
